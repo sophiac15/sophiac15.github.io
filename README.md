@@ -1,3 +1,3 @@
-# Hi, it's sophiaonthe.net. 
+# Hi, it's [sophiaonthe.net](sophiaonthe.net). 
 
 Stay tuned. 
